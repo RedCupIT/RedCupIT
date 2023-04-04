@@ -78,9 +78,9 @@ Don't hesitate to connect with us! We are always here to help you bring the powe
 
 Stay updated on the latest news and announcements from Red Cup IT via our social media:
 
-- :bird: Follow us on Twitter: [@RedCupIT](https://twitter.com/RedCupIT)
-- :camera: Connect with us on Instagram: [@RedCup.IT](https://www.instagram.com/RedCup.IT)
-- :earth_africa: Check out our Facebook page: [RedCupIT](https://www.facebook.com/RedCupIT)
-- :office: Connect with us on LinkedIn: [Red Cup IT](https://www.linkedin.com/company/red-cup-it)
+- :bird: Follow us on Twitter: [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/RedCupIT)
+- :office: Connect with us on LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-2867B2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/red-cup-it)
+- :camera: Connect with us on Instagram: [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/RedCupIT)
+- :earth_africa: Check out our Facebook page: [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/RedCupIT)
 
 Join our community, and together let's lead your business to new heights through innovative techonology solutions! :climbing: :mount_fuji: :fireworks:
