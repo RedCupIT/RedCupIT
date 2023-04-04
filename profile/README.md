@@ -1,4 +1,4 @@
-:red_circle: Red Cup IT :computer: :sparkles: is an **enterprise-grade IT firm** specializing in:
+## :red_circle: Red Cup IT :computer: :sparkles: is an **enterprise-grade IT firm** specializing in:
 
 - :shield: Cybersecurity
 - :closed_lock_with_key: Zero Trust
