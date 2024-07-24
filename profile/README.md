@@ -83,4 +83,4 @@ Stay updated on the latest news and announcements from Red Cup IT via our social
 - :camera: Connect with us on Instagram: [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/RedCupIT)
 - :earth_africa: Check out our Facebook page: [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/RedCupIT)
 
-Join our community, and together let's lead your business to new heights through innovative techonology solutions! :climbing: :mount_fuji: :fireworks:
+Join our community, and together let's lead your business to new heights through innovative technology solutions! :climbing: :mount_fuji: :fireworks:
